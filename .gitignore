@@ -34,3 +34,4 @@ built/
 
 # Caches
 .eslintcache
+.env
